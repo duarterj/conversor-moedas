@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class ConversorTemperatura implements Conversor {
 
-    MetodosConversaoTemperatura temp = new MetodosConversaoTemperatura();
+    FuncaoConverterTemp temp = new FuncaoConverterTemp();
 
     @Override
     public void convert(double valor) throws Exception {

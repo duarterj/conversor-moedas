@@ -3,7 +3,7 @@ package model;
 import javax.swing.*;
 
 public class ConversorMoeda implements Conversor {
-    MetodosConversaoMoeda moedas = new MetodosConversaoMoeda();
+    FuncaoConversaoMoeda moedas = new FuncaoConversaoMoeda();
 
     @Override
     public void convert(double valor) throws Exception{

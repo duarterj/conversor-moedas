@@ -4,7 +4,7 @@ import service.ServiceCotacaoApi;
 
 import javax.swing.*;
 
-public class MetodosConversaoMoeda {
+public class FuncaoConversaoMoeda {
 
         public void convertBrlUsd(double valor) throws Exception {
             double valorMoeda = convertBrlToCoin(valor, "USD");

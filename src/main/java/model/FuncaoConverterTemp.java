@@ -2,7 +2,7 @@ package model;
 
 import javax.swing.*;
 
-public class MetodosConversaoTemperatura {
+public class FuncaoConverterTemp {
 
     public void ConvertCelsiusToFahrenheit(double valor){
         double fahrenheit = (valor * 1.8) + 32;
