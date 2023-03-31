@@ -9,6 +9,10 @@ Sobre o meu projeto: :technologist:
 
 Eu desenvolvi um conversor de moeda e um conversor de temperatura
 
+## API 
+Eu utilizei a ExchangeRate-API para retornar a cotação das moedas em tempo real
+assim deixando o programa com valores sempre atualizados
+
 O meu conversor de moeda converte os tipos de moeda abaixo:
 
        - Converte de Reais a Dólar
